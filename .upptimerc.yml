@@ -15,7 +15,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   
 #   TODO
-#   cname: upptime.wonoly.net
+  cname: upptime.wonoly.net
 
 
   # baseUrl: /your-repo-name
