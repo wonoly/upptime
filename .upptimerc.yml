@@ -9,6 +9,8 @@ sites:
     url: https://search-api.wonoly.net
   - name: Search website
     url: https://search.wonoly.net
+  - name: URL shortener service
+    url: https://link.wonoly.net
   - name: Search API - test search
     url: https://search-api.wonoly.net/search?q=search
     
