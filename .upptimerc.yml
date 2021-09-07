@@ -25,7 +25,7 @@ status-website:
 
 
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://avatars.githubusercontent.com/u/83232058
   name: "Wonoly's upptime"
   introTitle: "**Wonoly's Upptime** is the uptime monitor and status page for Wonoly."
   introMessage: "This is wonoly's upptime, you can see where a service is working or not and their incidents."
