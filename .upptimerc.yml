@@ -7,12 +7,14 @@ sites:
     url: https://wonoly.net
   - name: Search API
     url: https://search-api.wonoly.net
+  - name: Search API - test search
+    url: https://search-api.wonoly.net/search?q=search
   - name: Search website
     url: https://search.wonoly.net
   - name: URL shortener service
     url: https://link.wonoly.net
-  - name: Search API - test search
-    url: https://search-api.wonoly.net/search?q=search
+  - name: Service API and feedback
+    url: https://services.wonoly.net
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
