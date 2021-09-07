@@ -40,12 +40,12 @@
     "url": "https://search-api.wonoly.net/search?q=search",
     "icon": "https://favicons.githubusercontent.com/search-api.wonoly.net",
     "slug": "search-api-test-search",
-    "status": "up",
-    "uptime": "63.16%",
-    "uptimeDay": "63.16%",
-    "uptimeWeek": "63.16%",
-    "uptimeMonth": "63.16%",
-    "uptimeYear": "63.16%",
+    "status": "down",
+    "uptime": "67.80%",
+    "uptimeDay": "67.80%",
+    "uptimeWeek": "67.80%",
+    "uptimeMonth": "67.80%",
+    "uptimeYear": "67.80%",
     "time": 1514,
     "timeDay": 1514,
     "timeWeek": 1514,
@@ -91,7 +91,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-09-07": 589,
+      "2021-09-07": 766,
       "2021-09-06": 232
     }
   },
@@ -112,7 +112,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-09-07": 209
+      "2021-09-07": 386
     }
   }
 ]
