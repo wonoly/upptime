@@ -40,19 +40,19 @@
     "url": "https://search-api.wonoly.net/search?q=search",
     "icon": "https://favicons.githubusercontent.com/search-api.wonoly.net",
     "slug": "search-api-test-search",
-    "status": "down",
-    "uptime": "61.31%",
-    "uptimeDay": "61.31%",
-    "uptimeWeek": "61.31%",
-    "uptimeMonth": "61.31%",
-    "uptimeYear": "61.31%",
-    "time": 1556,
-    "timeDay": 1556,
-    "timeWeek": 1556,
-    "timeMonth": 1556,
-    "timeYear": 1556,
+    "status": "up",
+    "uptime": "60.66%",
+    "uptimeDay": "60.66%",
+    "uptimeWeek": "60.66%",
+    "uptimeMonth": "60.66%",
+    "uptimeYear": "60.66%",
+    "time": 1513,
+    "timeDay": 1513,
+    "timeWeek": 1513,
+    "timeMonth": 1513,
+    "timeYear": 1513,
     "dailyMinutesDown": {
-      "2021-09-07": 164,
+      "2021-09-07": 175,
       "2021-09-06": 249
     }
   },
@@ -91,7 +91,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-09-07": 435,
+      "2021-09-07": 447,
       "2021-09-06": 232
     }
   },
@@ -101,18 +101,18 @@
     "icon": "https://favicons.githubusercontent.com/services.wonoly.net",
     "slug": "service-api-and-feedback",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-09-07": 55
+      "2021-09-07": 67
     }
   }
 ]
