@@ -15,6 +15,10 @@ sites:
     url: https://link.wonoly.net
   - name: Service API and feedback
     url: https://services.wonoly.net
+  - name: Status website
+    url: https://services.wonoly.net
+  - name: Search API bk (test)
+    url: https://wonoly-api.herokuapp.com/search?q=test
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
