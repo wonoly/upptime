@@ -20,6 +20,8 @@ jobs:
     name: Setup Upptime
     runs-on: ubuntu-18.04
     steps:
+      - run: git config --global --add url."git@github.com:".insteadOf "https://github.com/"
+      
       - name: Checkout
         uses: actions/checkout@v2.3.3
         with:
